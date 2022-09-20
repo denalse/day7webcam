@@ -1,0 +1,11 @@
+
+for reference: https://www.npmjs.com/package/ngx-webcam
+
+to use:
+    localhost:4200 (webcam)
+    localhost:4200/post/1 (to view with title)
+    localhost:4200/upload/1 (to view pic only)
+
+    this is using 4200 because its connected with angular
+
+    see logs (terminal below for updated number of post)
